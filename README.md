@@ -1,4 +1,4 @@
-### My First Spring Boot
+### My First Spring Boot App
 
 - Java 17
 - Maven
